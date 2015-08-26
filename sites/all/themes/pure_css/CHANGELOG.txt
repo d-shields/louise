@@ -1,0 +1,13 @@
+CHANGELOG - Yahoo Pure.CSS Framework
+
+Pure.CSS Framework 7.x-1.1  (May 29, 2015)
+-------------------------
+    o Responsive menu now showing 3rd level
+    o Added "smaller layout font
+
+Pure.CSS Framework 7.x-1.x (May 17, 2015)
+-----------------------------------------
+    o First release of Yahoo Pure.css Framework "A set of small, 
+      responsive CSS modules that you can use in every web project."
+
+
